@@ -1,5 +1,5 @@
 # IntroAI
-Course 02180
+Course 02180 - Introduction to Artificial Intelligence
 
 - Foundations of AI. 
 - Uninformed search. 
